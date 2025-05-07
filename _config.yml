@@ -13,7 +13,7 @@ title                    : "Guanyu Jin"
 title_separator          : "-"
 name                     : &name "Guanyu Jin"
 description              : &description "PhD in Distributionally Robust Optimization and Risk Theory "
-url                      : https://guanjinnl.github.io/g_jin.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://guanjinnl.github.io/gjinnl.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "GuanJinNL/g_jin.github.io"
 
