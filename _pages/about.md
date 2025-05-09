@@ -9,7 +9,7 @@ Welcome to my website!
 
 I am Guanyu (Guan) Jin, a PhD candidate at the Department of Quantitative Economics, University of Amsterdam.  My advisors are [Prof. Roger J. A. Laeven](https://www.rogerlaeven.nl/) and [Prof. Dick den Hertog](https://www.uva.nl/en/profile/h/e/d.denhertog/d.den-hertog.html). 
 
-Prior to that, I have been a Machine Learning Research Intern at the Dutch National Research Institute for Mathematics and Computer Science (a.k.a. Centrum Wiskunde en Informatica), under supervision of [Prof. Wouter M. Koolen](https://wouterkoolen.info/). In 2020, I obtained my master degree (*cum laude*) in mathematics at Leiden University.
+Prior to that, I have been a Machine Learning Research Intern at the Dutch National Research Institute for Mathematics and Computer Science (a.k.a. Centrum Wiskunde en Informatica), under the supervision of [Prof. Wouter M. Koolen](https://wouterkoolen.info/). In 2020, I obtained my master degree (*cum laude*) in mathematics from Leiden University.
 
 You can reach me via email at [g.jin@uva.nl](mailto:g.jin@uva.nl).
 
