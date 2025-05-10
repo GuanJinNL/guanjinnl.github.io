@@ -49,7 +49,7 @@ Over the past few years, my research has been focused on developing efficient op
 
  <!-- Robist -->
   <h3 style="margin-top: 15px; margin-bottom: 5px; font-weight: normal;">
-    <a href="https://guanjinnl.github.io/files/Robist.pdf" style="color: #007acc;">
+    <a href="https://guanjinnl.github.io/files/ROBIST.pdf" style="color: #007acc;">
       ROBIST: Robust Optimization by Iterative Scenario Sampling and Statistical Testing
     </a>
   </h3>
