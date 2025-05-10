@@ -14,19 +14,17 @@ Prior to that, I have been a Machine Learning Research Intern at the Dutch Natio
 You can reach me via email at [g.jin@uva.nl](mailto:g.jin@uva.nl).
 
 
-## 📌 Recent News
+## 📌 News
 
-<p>📌 December 9, 2024: I presented our paper <a href="https://guanjinnl.github.io/files/Composite.pdf">Constructing Uncertainty Sets for Robust Risk Measures: A Composition of $\phi$-Divergences Approach to Combat Tail Uncertainty</a> at the joint PhD Colloquium, hosted at London's Bayes Business School.</p> 
+<p>📌 December 9, 2024: I presented our paper <a href="https://guanjinnl.github.io/files/Composite.pdf">Constructing Uncertainty Sets for Robust Risk Measures: A Composition of $\phi$-Divergences Approach to Combat Tail Uncertainty</a> at the joint PhD Colloquium held at Bayes Business School in London.</p> 
 
-<p>📌 January 17, 2024: I received the Amsterdam University Fund Travel Grant for my research visit to Professor Henry Lam at Columbia University. </p>
+<p>📌 January 17, 2024: I received the travel grant from the Amsterdam University Fund for my research visit to Professor Henry Lam at Columbia University. </p>
 
 <p>📌 June 1, 2023: I presented our paper <a href="https://guanjinnl.github.io/files/RO_Rank_Dependent.pdf">Robust Optimization of Rank-Dependent Models
-with Uncertain Probabilities</a> at the SIAM Conference on Optimization (OP23) in Seattle.</p> 
+with Uncertain Probabilities</a> for the SIAM Conference on Optimization (OP23) in Seattle.</p> 
 
-<p>📌 April 16, 2023: I will visit Prof. Aharon Ben-Tal at Technion in Haifa, Israel.</p> 
+<p>📌 April 16, 2023: I visited Prof. Aharon Ben-Tal at Technion in Haifa, Israel.</p> 
 
-<p>📌 September 24, 2022: I presented our paper <a href="https://guanjinnl.github.io/files/RO_Rank_Dependent.pdf">Robust Optimization of Rank-Dependent Models
-with Uncertain Probabilities</a> at the Quantitative Economics Doctorate (QED) Jamboree, hosted at Universität Wien, Vienna.</p> 
 
 
 
