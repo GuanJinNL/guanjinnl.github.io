@@ -47,6 +47,18 @@ Over the past few years, my research has been focused on developing efficient op
   <p style="font-style: italic; font-size: 14px; margin-top: 5px;">Submitted to <i>Management Science</i></p>
 </div>
 
+ <!-- Robist -->
+  <h3 style="margin-top: 15px; margin-bottom: 5px; font-weight: normal;">
+    <a href="https://guanjinnl.github.io/files/Robist.pdf" style="color: #007acc;">
+      ROBIST: Robust Optimization by Iterative Scenario Sampling and Statistical Testing
+    </a>
+  </h3>
+  <p style="font-size: 14px; margin-bottom: 2px;">Joint work with Justin Starreveld, Roger J. A. Laeven and Dick den Hertog</p>
+  <p style="margin: 0; font-size: 14px;">
+    <a href="https://github.com/JustinStarreveld/ROBIST" target="_blank" style="color: #007acc;">GitHub</a>
+  </p>
+  <p style="font-style: italic; font-size: 14px; margin-top: 5px;">Under Revision at <i>Computers & Operations Research</i></p>
+
 <!-- Work in Progress Section -->
 <h2 style="margin-top: 50px; font-weight: bold; text-align: left;">Work in Progress</h2>
 <div style="padding-left: 0px;"> 
