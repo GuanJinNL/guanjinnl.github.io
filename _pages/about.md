@@ -23,7 +23,7 @@ You can reach me via email at [g.jin@uva.nl](mailto:g.jin@uva.nl).
 <p>📌 June 1, 2023: I presented our paper <a href="https://guanjinnl.github.io/files/RO_Rank_Dependent.pdf">Robust Optimization of Rank-Dependent Models
 with Uncertain Probabilities</a> for the SIAM Conference on Optimization (OP23) in Seattle.</p> 
 
-<p>📌 April 16, 2023: I visited Professor Aharon Ben-Tal at Technion in Haifa, Israel.</p> 
+<p>📌 April, 2023: I visited Professor Aharon Ben-Tal at Technion in Haifa, Israel.</p> 
 
 
 
