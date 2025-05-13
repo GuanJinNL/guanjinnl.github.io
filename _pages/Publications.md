@@ -6,7 +6,7 @@ author_profile: true
 
 My research area lies at the intersection of Distributionally Robust Optimization and Mathematical Risk Theory. In particular, I study stochastic decision problems in a risk-averse environment, where decisions are evaluated using a <a href = "https://en.wikipedia.org/wiki/Risk_measure"> risk measure </a>. These types of problems are frequently encountered in finance (e.g., portfolio optimization), operations research (e.g., inventory management with uncertain demand), and machine learning (e.g., robust regression).
 <br><br>
-Over the past few years, my research has been focused on developing efficient optimization and statistical techniques to obtain and analyze (robust) risk-averse stochastic optimization problems. The outputs are listed below.
+Over the past few years, my research has been focused on developing efficient optimization and statistical techniques to obtain and analyze solutions of (robust) risk-averse stochastic optimization problems. The outputs are listed below.
 <br><br>
 
 <!-- Preprints Section -->
