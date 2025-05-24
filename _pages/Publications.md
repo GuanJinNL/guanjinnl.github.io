@@ -73,7 +73,7 @@ Over the past few years, my research has been focused on developing efficient op
 <h2 style="margin-top: 50px; font-weight: bold; text-align: left;">Work in Progress</h2>
 <div style="padding-left: 0px;"> 
   <h3 style="margin-top: 7.5px; margin-bottom: 5px; color: #007acc; font-weight: normal;">
-    <a href="https://guanjinnl.github.io/files/SAA_Risk.pdf" style="color: #007acc; text-decoration: none;" target="_blank">
+    <a href="https://guanjinnl.github.io/files/SAA_Risk.pdf" style="color: #007acc;" target="_blank">
       Sample Average Approximation of Risk Functionals: Non-Asymptotic Error Bounds
     </a>
   </h3>
