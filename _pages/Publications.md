@@ -59,7 +59,7 @@ Over the past few years, my research has been focused on developing efficient op
   </p>
   <p style="font-style: italic; font-size: 14px; margin-top: 5px;">Under Revision at <i>Computers & Operations Research</i></p>
 
-<!-- Work in Progress Section 
+<!-- Work in Progress Section -->
 <h2 style="margin-top: 50px; font-weight: bold; text-align: left;">Work in Progress</h2>
 <div style="padding-left: 0px;"> 
   <h3 style="margin-top: 7.5px; margin-bottom: 5px; color: #007acc; font-weight: normal;">
@@ -67,9 +67,9 @@ Over the past few years, my research has been focused on developing efficient op
   </h3>
   <p style="font-size: 14px;">Joint work with Roger J. A. Laeven and Volker Kraetschmer</p>
 </div>
--->
 
-<!-- Work in Progress Section --> 
+
+<!-- Work in Progress Section 
 <h2 style="margin-top: 50px; font-weight: bold; text-align: left;">Work in Progress</h2>
 <div style="padding-left: 0px;"> 
   <h3 style="margin-top: 7.5px; margin-bottom: 5px; color: #007acc; font-weight: normal;">
@@ -79,3 +79,4 @@ Over the past few years, my research has been focused on developing efficient op
   </h3>
   <p style="font-size: 14px;">Joint work with Roger J. A. Laeven and Volker Kraetschmer</p>
 </div>
+--> 
