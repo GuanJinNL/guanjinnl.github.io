@@ -9,19 +9,38 @@ My research area lies at the intersection of Distributionally Robust Optimizatio
 Over the past few years, my research has been focused on developing efficient optimization and statistical techniques to obtain and analyze solutions of (robust) risk-averse stochastic optimization problems. The outputs are listed below. A research statement can be found <a href = "https://guanjinnl.github.io/files/Research Statement.pdf"> here. </a>
 <br><br>
 
+<!-- Publication Section -->
+<h2 style="margin-top: 0; font-weight: bold; text-align: left;">Publications</h2>
+<div style="padding-left: 0;"> 
+
+<!-- Robist -->
+  <h3 style="margin-top: 15px; margin-bottom: 5px; font-weight: normal;">
+    <a href="https://www.sciencedirect.com/science/article/pii/S0305054825002898?via%3Dihub" style="color: #007acc;">
+      ROBIST: Robust Optimization by Iterative Scenario Sampling and Statistical Testing
+    </a>
+  </h3>
+  <p style="font-size: 14px; margin-bottom: 2px;">Joint work with Justin Starreveld, Roger J. A. Laeven and Dick den Hertog</p>
+  <p style="margin: 0; font-size: 14px;">
+    <a href="https://github.com/JustinStarreveld/ROBIST" target="_blank" style="color: #007acc;">GitHub</a>
+  </p>
+  <p style="font-style: italic; font-size: 14px; margin-top: 5px;">Forthcoming in <i>Computers & Operations Research</i></p>
+
 <!-- Preprints Section -->
 <h2 style="margin-top: 0; font-weight: bold; text-align: left;">Preprints</h2>
 <div style="padding-left: 0;"> 
   <!-- Preprint 1 -->
-  <h3 style="margin-top: 7.5px; margin-bottom: 5px; font-weight: normal;">
-    <a href="https://guanjinnl.github.io/files/Dual_DRO.pdf" style="color: #007acc;">
-      A New Distributionally Robust Optimization Model Based on Maxiance Regularization
+  <h3 style="margin-top: 15px; margin-bottom: 5px; font-weight: normal;">
+    <a href="https://guanjinnl.github.io/files/RO_Rank_Dependent.pdf" style="color: #007acc;">
+      Robust Optimization of Rank-Dependent Models with Uncertain Probabilities
     </a>
   </h3>
-  <p style="font-size: 14px; margin-bottom: 2px;">Joint work with Roger J. A. Laeven and Henry Lam</p>
+  <p style="font-size: 14px; margin-bottom: 2px;">Joint work with Roger J. A. Laeven and Dick den Hertog</p>
   <p style="margin: 0; font-size: 14px;">
-    <a href="https://github.com/GuanJinNL/Dual_DRO" target="_blank" style="color: #007acc;">GitHub</a>
+    <a href="https://github.com/GuanJinNL/Robust_Optimization_Risk_Measures" target="_blank" style="color: #007acc;">GitHub</a>
   </p>
+  <p style="font-style: italic; font-size: 14px; margin-top: 5px;">Submitted to <i>Management Science</i></p>
+</div>
+
 
   <!-- Preprint 2 -->
   <h3 style="margin-top: 15px; margin-bottom: 5px; font-weight: normal;">
@@ -35,29 +54,19 @@ Over the past few years, my research has been focused on developing efficient op
   </p>
 
   <!-- Preprint 3 -->
-  <h3 style="margin-top: 15px; margin-bottom: 5px; font-weight: normal;">
-    <a href="https://guanjinnl.github.io/files/RO_Rank_Dependent.pdf" style="color: #007acc;">
-      Robust Optimization of Rank-Dependent Models with Uncertain Probabilities
-    </a>
-  </h3>
-  <p style="font-size: 14px; margin-bottom: 2px;">Joint work with Roger J. A. Laeven and Dick den Hertog</p>
-  <p style="margin: 0; font-size: 14px;">
-    <a href="https://github.com/GuanJinNL/Robust_Optimization_Risk_Measures" target="_blank" style="color: #007acc;">GitHub</a>
-  </p>
-  <p style="font-style: italic; font-size: 14px; margin-top: 5px;">Submitted to <i>Management Science</i></p>
-</div>
 
- <!-- Robist -->
-  <h3 style="margin-top: 15px; margin-bottom: 5px; font-weight: normal;">
-    <a href="https://guanjinnl.github.io/files/ROBIST.pdf" style="color: #007acc;">
-      ROBIST: Robust Optimization by Iterative Scenario Sampling and Statistical Testing
+   
+  <h3 style="margin-top: 7.5px; margin-bottom: 5px; font-weight: normal;">
+    <a href="https://guanjinnl.github.io/files/Dual_DRO.pdf" style="color: #007acc;">
+      A New Distributionally Robust Optimization Model Based on Maxiance Regularization
     </a>
   </h3>
-  <p style="font-size: 14px; margin-bottom: 2px;">Joint work with Justin Starreveld, Roger J. A. Laeven and Dick den Hertog</p>
+  <p style="font-size: 14px; margin-bottom: 2px;">Joint work with Roger J. A. Laeven and Henry Lam</p>
   <p style="margin: 0; font-size: 14px;">
-    <a href="https://github.com/JustinStarreveld/ROBIST" target="_blank" style="color: #007acc;">GitHub</a>
+    <a href="https://github.com/GuanJinNL/Dual_DRO" target="_blank" style="color: #007acc;">GitHub</a>
   </p>
-  <p style="font-style: italic; font-size: 14px; margin-top: 5px;">Under Revision at <i>Computers & Operations Research</i></p>
+
+ 
 
 <!-- Work in Progress Section -->
 <h2 style="margin-top: 50px; font-weight: bold; text-align: left;">Work in Progress</h2>
