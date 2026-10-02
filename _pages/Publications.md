@@ -53,18 +53,7 @@ Over the past few years, my research has been focused on developing efficient op
     <a href="https://github.com/GuanJinNL/Uncertainty-Sets-for-Robust-Risk-Measures" target="_blank" style="color: #007acc;">GitHub</a>
   </p>
 
-  <!-- Preprint 3 -->
-
-   
-  <h3 style="margin-top: 7.5px; margin-bottom: 5px; font-weight: normal;">
-    <a href="https://guanjinnl.github.io/files/Dual_DRO.pdf" style="color: #007acc;">
-      A New Distributionally Robust Optimization Model Based on Maxiance Regularization
-    </a>
-  </h3>
-  <p style="font-size: 14px; margin-bottom: 2px;">Joint work with Roger J. A. Laeven and Henry Lam</p>
-  <p style="margin: 0; font-size: 14px;">
-    <a href="https://github.com/GuanJinNL/Dual_DRO" target="_blank" style="color: #007acc;">GitHub</a>
-  </p>
+  
 
  
 
@@ -75,6 +64,14 @@ Over the past few years, my research has been focused on developing efficient op
     Sample Average Approximation of Risk Functionals: Non-Asymptotic Error Bounds
   </h3>
   <p style="font-size: 14px;">Joint work with Roger J. A. Laeven and Volker Kraetschmer</p>
+</div>
+
+<!-- Preprint 3 also listed as Work in Progress (no link) -->
+<div style="padding-left: 0px; margin-top: 20px;">
+  <h3 style="margin-top: 7.5px; margin-bottom: 5px; color: #007acc; font-weight: normal;">
+    A New Distributionally Robust Optimization Model Based on Maxiance Regularization
+  </h3>
+  <p style="font-size: 14px;">Joint work with Roger J. A. Laeven and Henry Lam</p>
 </div>
 
 
