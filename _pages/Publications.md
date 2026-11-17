@@ -74,6 +74,28 @@ Over the past few years, my research has been focused on developing efficient op
   <p style="font-size: 14px;">Joint work with Roger J. A. Laeven and Henry Lam</p>
 </div>
 
+<!-- PhD Thesis -->
+<h2 style="margin-top: 0; font-weight: bold; text-align: left;">PhD Thesis</h2>
+<div style="padding-left: 0;">
+
+  <h3 style="margin-top: 15px; margin-bottom: 5px; font-weight: normal;">
+    <a href="https://guanjinnl.github.io/files/Thesis.pdf"
+       target="_blank"
+       rel="noopener noreferrer"
+       style="color: #007acc;">
+      Essays on Distributionally Robust Optimization for Decision-Making under Risk and Ambiguity
+    </a>
+  </h3>
+
+  <p style="font-size: 14px; margin-bottom: 2px;">
+    PhD Thesis, University of Amsterdam, 2026
+  </p>
+
+  <p style="font-style: italic; font-size: 14px; margin-top: 5px;">
+    Supervisor: Roger J. A. Laeven and Dick den Hertog
+  </p>
+
+</div>
 
 <!-- Work in Progress Section 
 <h2 style="margin-top: 50px; font-weight: bold; text-align: left;">Work in Progress</h2>
